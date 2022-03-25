@@ -1,0 +1,35 @@
+C:\Users\hymsoft\pares-impares\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.csproj.AssemblyReference.cache
+C:\Users\hymsoft\pares-impares\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hymsoft\pares-impares\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.AssemblyInfoInputs.cache
+C:\Users\hymsoft\pares-impares\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.AssemblyInfo.cs
+C:\Users\hymsoft\pares-impares\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.csproj.CoreCompileInputs.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.csproj.AssemblyReference.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.AssemblyInfoInputs.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.AssemblyInfo.cs
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.csproj.CoreCompileInputs.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\bin\Debug\net6.0\problema-1-2-4.exe
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\bin\Debug\net6.0\problema-1-2-4.deps.json
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\bin\Debug\net6.0\problema-1-2-4.runtimeconfig.json
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\bin\Debug\net6.0\problema-1-2-4.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\bin\Debug\net6.0\problema-1-2-4.pdb
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\obj\Debug\net6.0\refint\problema-1-2-4.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.pdb
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.genruntimeconfig.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\problema-1-2-4\obj\Debug\net6.0\ref\problema-1-2-4.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\bin\Debug\net6.0\problema-1-2-4.exe
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\bin\Debug\net6.0\problema-1-2-4.deps.json
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\bin\Debug\net6.0\problema-1-2-4.runtimeconfig.json
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\bin\Debug\net6.0\problema-1-2-4.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\bin\Debug\net6.0\problema-1-2-4.pdb
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.csproj.AssemblyReference.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.AssemblyInfoInputs.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.AssemblyInfo.cs
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.csproj.CoreCompileInputs.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\obj\Debug\net6.0\refint\problema-1-2-4.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.pdb
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\obj\Debug\net6.0\problema-1-2-4.genruntimeconfig.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\apunte-array\calculo-notas-problema-1-2-4\obj\Debug\net6.0\ref\problema-1-2-4.dll
